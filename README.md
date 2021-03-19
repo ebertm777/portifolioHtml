@@ -1,6 +1,6 @@
 # praticaCss
 
-Site portifolio criado em html, css e js.
+Site portifolio criado em html, css, js e bootstrap 4.
 
 Veja Online: https://pratica-css.vercel.app/
 
